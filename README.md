@@ -20,7 +20,7 @@ This is a command-line-based YouTube video search engine that allows users to se
 ### Clone the Repository
 
 ```bash
-git clone hhttps://github.com/Spandan7724/Eureka.git
+git clone https://github.com/Spandan7724/Eureka.git
 cd Eureka
 ```
 ## Install Dependencies
