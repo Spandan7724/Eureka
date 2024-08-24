@@ -4,4 +4,4 @@ torch==2.0.1
 sentence-transformers==2.2.2  
 python-dotenv==1.0.0
 rich==13.3.2
-click
+click==8.1.7
