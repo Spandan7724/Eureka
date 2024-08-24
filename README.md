@@ -52,7 +52,6 @@ python main.py "your search description here" --num_results <number_of_results>
 For example:
 ```bash
 python main.py "a video about the kryptos cipher by lemmino" --num_results 5
- <number_of_results>
 ```
 This will display the top 5 video results based on your search query.
 
